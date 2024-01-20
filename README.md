@@ -5,13 +5,13 @@ The code regularly generates a mouse event to Windows by moving the mouse to the
 Exit the program will come back to normal, so don't forget to close the application when you are done of the work. :)<br>
 <br>
 To run the code, in Windows, open a command line, and enter to the directory which contains movemouse.py, and run:<br>
-python movemouse.py<br>
+>python movemouse.py<br>
 or<br>
-python3 movemouse.py<br>
+>python3 movemouse.py<br>
 <br>
-make sure python is installed in your computer.<br>
+make sure Python is installed in your computer.<br>
 <br>
 You can create a movemouse.bat file in the same folder of movemouse.py. The content of movemouse.bat is just a line:<br>
 python movemouse.py<br>
 <br>
-Then run the bat file from file explore directly, or create a link to this bat file on desktop to run every time instead of going command line. :)<br>
+Then run the bat file from File Explorer directly, or create a link to this bat file on desktop to run every time instead of going command line. Enjoy!:)<br>
