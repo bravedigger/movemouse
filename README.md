@@ -10,3 +10,8 @@ or
 python3 movemouse.py
 
 make sure python is installed in your computer.
+
+You can create a movemouse.bat file in the same folder of movemouse.py. The content of movemouse.bat is just a line:
+python movemouse.py
+
+Then run the bat file from file explore directly, or create a link to this bat file on desktop to run every time instead of going command line. :)
