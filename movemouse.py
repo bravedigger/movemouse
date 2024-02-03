@@ -1,7 +1,7 @@
 ##liubrave@hotmail.com
 ##OS: Windows
 ##Discription: Move mouse regularly(every minute) to prevent the screen from lock
-##             Good for work computers which lock screen often without touching keyboard or mouse.
+##             Good for computers which lock screen often without touching keyboard or mouse.
 ##             The program won't affect you use computer as the move of mouse is actually to the same place/XY of the screen
 ##Version: 1.0
 
